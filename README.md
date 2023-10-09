@@ -13,3 +13,4 @@ I am currently focusing on lattice-based polynomial commitment schemes, aiming t
 ## Links
 - Website: [gfenzi.io](gfenzi.io)
 - Publications: [dblp](https://dblp.org/pid/350/5799.html) [scholar](https://scholar.google.com/citations?user=lnJtN4cAAAAJ) [blog](https://gfenzi.io/publications/publications/)
+- Twitter: [@GiacomoFenzi](https://twitter.com/GiacomoFenzi)
