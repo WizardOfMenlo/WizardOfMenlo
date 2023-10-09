@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**WizardOfMenlo/WizardOfMenlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to this GitHub account. I am Giacomo, a PhD student in cryptography @EPFL. 
 
-Here are some ideas to get you started:
+I am mainly interested in probabilistic proof systems, and aim to achieve schemes that are both asymptotically and concretely efficient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently focusing on lattice-based polynomial commitment schemes, aiming to build the 'lattice-based KZG'. This line of work resulted in [2023/846](https://ia.cr/2023/846) and [2023/1469, SLAP 👋](https://ia.cr/2023/1469). For more info also see the [blog](https://gfenzi.io/lattices/towards-asymptotic-and-concrete-efficiency/) [posts](https://gfenzi.io/lattices/slap/).
+
+## Other projects
+- [Klondike](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/thesis%20(4).pdf). An analysis of classical collision finding algorithms when applied in a distributed setting, focusing on attacking isogeny based schemes.
+- [Elliptic curves](https://youtu.be/HsqfumdYrUA). An entirely too short primer on elliptic curves and their role in pre and post-quantum crypto.
+
+## Links
+- Website: [gfenzi.io](gfenzi.io)
+- Publications: [dblp](https://dblp.org/pid/350/5799.html) [scholar](https://scholar.google.com/citations?user=lnJtN4cAAAAJ) [blog](https://gfenzi.io/publications/publications/)
