@@ -4,7 +4,8 @@ Welcome to this GitHub account. I am Giacomo, a PhD student in cryptography @EPF
 
 I am mainly interested in probabilistic proof systems, and aim to achieve schemes that are both asymptotically and concretely efficient.
 
-I am currently focusing on lattice-based polynomial commitment schemes, aiming to build the 'lattice-based KZG'. This line of work resulted in [2023/846](https://ia.cr/2023/846) and [2023/1469, SLAP 👋](https://ia.cr/2023/1469). For more info also see the [blog](https://gfenzi.io/lattices/towards-asymptotic-and-concrete-efficiency/) [posts](https://gfenzi.io/lattices/slap/).
+## Main projects
+- Lattice-based polynomial commitment schemes, aiming to build the 'lattice-based KZG'. This line of work resulted in [2023/846](https://ia.cr/2023/846) and [2023/1469, SLAP 👋](https://ia.cr/2023/1469). For more info also see the [blog](https://gfenzi.io/lattices/towards-asymptotic-and-concrete-efficiency/) [posts](https://gfenzi.io/lattices/slap/).
 
 ## Other projects
 - [Klondike](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/thesis%20(4).pdf). An analysis of classical collision finding algorithms when applied in a distributed setting, focusing on attacking isogeny based schemes.
