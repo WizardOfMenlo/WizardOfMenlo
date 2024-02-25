@@ -5,6 +5,7 @@ Welcome to this GitHub account. I am Giacomo, a PhD student in cryptography @EPF
 I am mainly interested in probabilistic proof systems, and aim to achieve schemes that are both asymptotically and concretely efficient.
 
 ## Main projects
+- Blendy 🍹: A space-efficient implementations of the prover in the sumcheck protocol. Code available at [space-efficient-sumcheck](https://github.com/compsec-epfl/space-efficient-sumcheck)
 - Lattice-based polynomial commitment schemes, aiming to build the 'lattice-based KZG'. This line of work resulted in [2023/846](https://ia.cr/2023/846) and [2023/1469, SLAP 👋](https://ia.cr/2023/1469). For more info also see the [blog](https://gfenzi.io/lattices/towards-asymptotic-and-concrete-efficiency/) [posts](https://gfenzi.io/lattices/slap/).
 
 ## Other projects
